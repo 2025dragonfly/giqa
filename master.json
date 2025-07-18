@@ -1,5 +1,555 @@
 {
-	"Files":[],
-	"Chunks":[],
-	"ChunkLocations":[]
+    "Files": [
+        {
+            "Sha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.bak",
+            "Length": 168156786688
+        }
+    ],
+    "Chunks": [
+        {
+            "Sha256": "2c76827ecc3db3d59653344ef83cac8124c23aa2f84fb356072f2a7b24d5aaa6",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part01.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "93e43d8e57334dac9ce783a65e3f23c9c23b96d39ca5ec3c1e7108a856ca8a1a",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part02.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "9f0c61f0df37bed634cca5a92a476ca7cf039e5ab98e8941caba397e7d56a0cb",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part03.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "1f73061e424ff995355c3c591d9327ce418e8850a231194fce96e09cc905cb34",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part04.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "9620a45c3731fecac104e275c27d6793f02057c188818f0e5c00c6aa0e761253",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part05.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "0ce72ab5117ae0ff2588324f99893f1dc9f1b11729667d5f4a83098dcee08513",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part06.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "2dab789a53ab517245fb5e5986faea146e6e5186621b7f12fb3bb061f112eda9",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part07.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "a203e92bd090ad0f39934f88a4370ca337243f2d19be237ee2d9ce87540748b8",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part08.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "4085445b4270973fc08e2075beabcef461cd4ba978c50fcc667780864cc89591",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part09.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "3aa25b07cfb90c86cb636344a3aa53aedc9359f7ac8363bb1ba9fc4dea584cd8",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part10.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "99dc3bdcdda1e4df580fe10994be9f434cc43dae51127981bea6e5959e05c7f0",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part11.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "6e64c6c6503710d526cab6442a847f3e1903c4d11e6fd75b7bb54e77c98d2fb9",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part12.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "aaf6ca477ca32e994fddb5b4fe86230040588c1bb902d13a3f0f246471d45150",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part13.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "ea9fc9153e1d79fc43f7d6615dada62d0a29d8a1c36963b4983e09fd60529b44",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part14.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "bccabda5c2404ddb71648b43548879603e14518f88cc468fd5fb5aed87222ef9",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part15.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "06c933e745c7f25fef5eb3875e03b0920375599f83f947277df4257bc8bc1d1e",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part16.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "6193b7231fd6a7b624a0fdb8f98fd1dbe311f7a0ddf7964c0a620fa016496d66",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part17.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "77570502bd946ed8d6599e129b231e015461567fe2cd87141626a19c2602da96",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part18.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "c63a7cf270358aee9d1b1eed0f00b17d905f6cac7e9f132e2109bc454f40d63e",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part19.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "fc14b770a8314a18d7b21606401b49337d518f9b9a00561ed89b01eded4c382c",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part20.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "dda011194d35d1956719d2d9cce49406679954e0ad03c597e6df0af6b7da3623",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part21.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "ff4f3240b11818964e6d6244d2b0c2a40325c1e77e975362d95b1051202990e2",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part22.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "aabe3511c9e34afa467d70d7137435eb1a076fc07b3c75641a4c61545c68f5c4",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part23.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "4dcd2df5624ca92f33171d7e914a250fae40b6cf7b23c421ec015571d6e7d1bc",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part24.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "f0b6e6df7a9bba984ab8d8bb7418eca44249827dbd02bb088ac9d58939cbea06",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part25.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "3986f9c2e3eb0046f7131c15aa44d72e4cbcceed60e176fb5bc1569ab449b6d0",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part26.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "2ff32955aee9de5d38219f7c1c296fc4c99921f4de914d52fbbca1964566c31e",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part27.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "d3aabd2822ccb7a15f74a9d1a7b16a333e171e451a1ded84b4edec2cc7929e9c",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part28.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "7f0d861515bea782cd0a0962d6d1654be61b7e3e3474bbcc8a5e04e1e889815b",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part29.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "bd2ae41d9ad2a0901f26b6f84e3df90b7ad0f5900de41f6768584181eccd81b4",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part30.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "74894ae815bf627c4a24698208cd3f6f8c371add2a2977b4655f6405e38c6ded",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part31.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "96eb9ed4960857012f30feb963401cb3c8161a0ae518994b500469545b5e1d18",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part32.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "4a37c405a78663af6f9bb2a4ad903ac3e05b51f4dc44824db0dd2820ec77034a",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part33.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "564eec3dcf933bad97eecbea87d7c25edbc23aa87fb4d7c2ad0b34e885086558",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part34.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "747d882655b2b6686d64b4f4c2322d5a66337e10b4e16b74809b9b1403ff6ee8",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part35.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "f6089990e90f931a4211553096c5bea39693d6c9dc6c40566142a381afcd3716",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part36.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "9e31ce6ebe955082e056510f1fc2a3b4ff2f8d07bd63f7e4d88d1c9aa1cc56be",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part37.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "3adea6201fbb7c1d2dba5868768360e4040b757a542917afa910511b5923e57a",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part38.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "602a146507b2e532d92fe886fa8200d48bde1ee89d5cec4f7974e53646e55b71",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part39.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "45a3114b447dc53ca09911a751737eb8e339dde320dec42c4936fb603ddb0efa",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part40.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "517ce49c284c092c02873c1cb70efdffd9757596989664c772103f5c41ea382f",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part41.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "78a658da6d3d08a431b0808da84c4c51b4029a82a67cb045936aa10efe07006b",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part42.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "02a64f600c80d972edcd29e0d9456ff591fdd70d2b7a89808a25a48bcfb4320d",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part43.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "7ea36b182af85e0b30d0ae98ad793b943cae85e5cf59db4f859f42cdb8cad402",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part44.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "afb4608812aecf038b9ade9c41264f69e2238118d49ef806e676798dbbcdf5d9",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part45.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "79282f62a10a1ec61e6bbd2e1ba2cb635f04167a8e94f274cc1a608222c03825",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part46.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "8359dd06e6b5eb89b2abb7255b01ca224e159b76ad1f715d9f2abcb2b3517a6c",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part47.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "42ff46ee3df5ff25969083f03fbb404830d56de06f88a1f2d0f11302c7b4f9e3",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part48.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "69861438d9bc86ad8629f9dbc787c400399c5088e4c4f522fb9419f1aec2aa70",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part49.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "f76e81a1ba6e3fb4c2afb073c8e63e31467e0b5ea1a2b36ce9b51d7452d2c49a",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part50.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "d606d9fb8bb8f826b347e10cf314b595d4dffdc4cfaf75b10cd9306af86cb039",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part51.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "8e15cdfb808812c9e67319144516e723a35aac7ebf006e01633538ba962b6d29",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part52.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "1b0aafdcaec05f854ec8633253859f58b7f7984d2c33614fd8502540c40d1841",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part53.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "b2449a27c4f518b623125eb16a893e71a6580ebcb0235d08d61dc59bcb55c1a7",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part54.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "d080eac78a460d1965dfb155a241a3efd21ff9294a85ac21041c3f3643c94ff1",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part55.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "8f73d47e7268e04a6ac97e6a9df9f84afadb640c9fa5c37af1812386b9bed10b",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part56.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "f8e71dce7de6b05428cf725f8d85fd1d837b338941a10e01da076276a6b73cf4",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part57.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "fd34dc625e5711ce656cf9aa0cd56dfa63908c5cb99bb972ada54eb5be79c120",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part58.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "6a31c1e3cfd79129628ba5a88847fe9cdcfe2d5c97a54f3a6c21ce2edbe31af8",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part59.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "f18f408c20d6adb1aed0ea567754cdbf7efd998454128c5d2cc63dffb1ddc45f",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part60.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "42f0dbf48221f68fc2ebee966813fff0ae69f807f512dbe29a60a51351351ebc",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part61.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "e724841cfc9d57a01e6ff6f27a9fcc05ba5f4a309ee09b560e36f170825c4a5f",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part62.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "79e011b1a863c1d37bfd661d61376abf4d5daded20bc36b1d17298fb490b2a90",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part63.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "4ee44f23b9ac13d7b61370cf4d4862fa6621408c9b44805df3d447a657b3f096",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part64.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "bd69955c11fefa2b58a0624707d8e5bbe6724301b249a2e723fc41aba34a5c3e",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part65.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "4c0fc7ca820c181a2660ddefae3aae442eb79f1763d4b2c7a3a0b327b086a5c4",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part66.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "d2456227646b25b98f5883951400cd8cf7fd014b5d28ad610af8a7d0deeabefd",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part67.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "d8b1f6a7af16299b19970657ea3c8a2ac613debb43598f045acb90da03fee506",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part68.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "e2dce6d69dae50ed70ffbe31f122e63c120ac4e7a87ac832cebeab2342f26367",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part69.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "710684650d1bdf55993979516302b0e8c32ee8fffe2d5c8be6e88a3729ba67cc",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part70.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "b5b81fad32f761ee69a861c75289e57f395611a340f6486d79a853b15962ccbb",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part71.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "014758279aba1166b304f66f517bf6e0f161903d5709db982c2dfe419ae94501",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part72.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "32166f511f88196a8428e45ba5ee13fc01c9e9c90799ec57e237ff9ad0dd667e",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part73.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "b25882d9640e7d926170481212100ba4491e1b52f403ad305311eb3ee96c9785",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part74.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "1ad3d8c6a6f8523a7e7ee08df74737019f4cf6e8be3015eb35690db17043f59e",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part75.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "227b9fb57fa4c921a7358cf95817b1fe28660db8c970ece27821519a52d61b38",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part76.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "b33abb2f399a0865884ca8977a78c74564b15caf4f49bc0afdb3464a7576cd14",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part77.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "019b72f87a6b6b287d2f04bfa1ef33629aa00a113be2aa52b57fc615ab2f03fe",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part78.rar",
+            "Length": 2147483648
+        },
+        {
+            "Sha256": "af26c0dd1ce3f04df1aa408abde2dc258d77213eb7e9ca5fe917f7c396245bf8",
+            "FileSha256": "22746c3b8ae607f758e8cd22c2846e7e3c6cdb1b68c021f0fe6c459651bcc666",
+            "Name": "Ecra_17.07.2025_88403270.part79.rar",
+            "Length": 653105102
+        }
+    ],
+    "ChunkLocations": [
+        {
+            "Sha256": "af26c0dd1ce3f04df1aa408abde2dc258d77213eb7e9ca5fe917f7c396245bf8",
+            "Location": "cloudmailru://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "3aa25b07cfb90c86cb636344a3aa53aedc9359f7ac8363bb1ba9fc4dea584cd8",
+            "Location": "drivegooglecom://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "99dc3bdcdda1e4df580fe10994be9f434cc43dae51127981bea6e5959e05c7f0",
+            "Location": "drivegooglecom://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "6e64c6c6503710d526cab6442a847f3e1903c4d11e6fd75b7bb54e77c98d2fb9",
+            "Location": "drivegooglecom://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "aaf6ca477ca32e994fddb5b4fe86230040588c1bb902d13a3f0f246471d45150",
+            "Location": "drivegooglecom://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "ea9fc9153e1d79fc43f7d6615dada62d0a29d8a1c36963b4983e09fd60529b44",
+            "Location": "drivegooglecom://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "bccabda5c2404ddb71648b43548879603e14518f88cc468fd5fb5aed87222ef9",
+            "Location": "drivegooglecom://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "06c933e745c7f25fef5eb3875e03b0920375599f83f947277df4257bc8bc1d1e",
+            "Location": "drivegooglecom://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "2c76827ecc3db3d59653344ef83cac8124c23aa2f84fb356072f2a7b24d5aaa6",
+            "Location": "meganz://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "93e43d8e57334dac9ce783a65e3f23c9c23b96d39ca5ec3c1e7108a856ca8a1a",
+            "Location": "meganz://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "9f0c61f0df37bed634cca5a92a476ca7cf039e5ab98e8941caba397e7d56a0cb",
+            "Location": "meganz://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "1f73061e424ff995355c3c591d9327ce418e8850a231194fce96e09cc905cb34",
+            "Location": "meganz://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "9620a45c3731fecac104e275c27d6793f02057c188818f0e5c00c6aa0e761253",
+            "Location": "meganz://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "0ce72ab5117ae0ff2588324f99893f1dc9f1b11729667d5f4a83098dcee08513",
+            "Location": "meganz://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "2dab789a53ab517245fb5e5986faea146e6e5186621b7f12fb3bb061f112eda9",
+            "Location": "meganz://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "a203e92bd090ad0f39934f88a4370ca337243f2d19be237ee2d9ce87540748b8",
+            "Location": "meganz://2025dragonfly2025@gmail.com"
+        },
+        {
+            "Sha256": "4085445b4270973fc08e2075beabcef461cd4ba978c50fcc667780864cc89591",
+            "Location": "meganz://2025dragonfly2025@gmail.com"
+        }
+    ]
 }
